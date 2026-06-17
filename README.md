@@ -35,3 +35,7 @@ python toki_pona_particles_prediction.py
 - huggingface_hub
 - matplotlib
 - pandas, numpy
+
+## Learn Toki Pona
+- **Guides:** [tokitrainer](https://tokitrainer.com/), [wasona](https://wasona.com/)
+- **Dictionary:** [simple.wikipedia](https://simple.wikipedia.org/wiki/List_of_Toki_Pona_words), [nimi.li](https://nimi.li/)
